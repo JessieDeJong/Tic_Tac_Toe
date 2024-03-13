@@ -201,3 +201,5 @@ def game_on():
         elif full_board_check():
             game_on = game_off()
 
+#To start the game, uncomment the next line
+#game_on()
