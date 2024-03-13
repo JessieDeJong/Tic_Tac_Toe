@@ -1,4 +1,4 @@
-# Tick_Tack_Toe
+# Tick_Tac_Toe
 My own version of the **Tic-Tac-Toe** game 🕹️
 
 ## Description 📜
