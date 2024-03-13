@@ -12,7 +12,8 @@ After each game round you get the option to quit or continue gaming.\
 If you choose to continue, the gameboard gets reset and you can start again.
 
 ## How to use 🔧
-You can set-up the project to your local pc to try it out.\
+Make sure you have **Python** installed.\
+Then you can set-up the project to your local pc to try it out.\
 Don't forget to uncomment the last line to get the game started! 
 
 ```
